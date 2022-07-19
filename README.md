@@ -12,11 +12,11 @@ Gorm - ORM library
 
 Backend structure:
 
-**main.go** - the database connection, setup routes, configuration
+  **main.go** - the database connection, setup routes, configuration
 
-database/**database.go** - import of gorm and creation of variable DBConn
+  database/**database.go** - import of gorm and creation of variable DBConn
 
-models/**todo.go** - Data modeling with Todo struct and CRUD operations. 
+  models/**todo.go** - Data modeling with Todo struct and CRUD operations. 
 
 Javascript - language
 
@@ -26,13 +26,13 @@ Antd components
 
 Frontend structure:
 
-**App.css** - import antd.css
+  **App.css** - import antd.css
 
-**App.js** - with main page
+  **App.js** - with main page
 
-services/**todoServices.js** - integration with backend
+  services/**todoServices.js** - integration with backend
 
-components/**Todo*.jsx** - React interactive components.
+  components/**Todo*.jsx** - React interactive components.
 
 Conclusions:
 
