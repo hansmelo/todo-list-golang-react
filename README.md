@@ -26,13 +26,13 @@ Antd components
 
 Frontend structure:
 
-    **App.css** - import antd.css
+    App.css - import antd.css
 
-    **App.js** - with main page
+    App.js - with main page
 
-    services/**todoServices.js** - integration with backend
+    services/todoServices.js - integration with backend
 
-    components/**Todo*.jsx** - React interactive components.
+    components/Todo*.jsx - React interactive components.
 
 Conclusions:
 
