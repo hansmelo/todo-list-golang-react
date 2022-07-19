@@ -36,7 +36,7 @@ Frontend structure:
 
 Conclusions:
 
-Go is fucking fast for creating an API Rest.
+Go is fast for creating an API Rest.
 
 React, I need to improve my knowledge, but it is a nice modularized framework. It was enjoyable to work with.
 
